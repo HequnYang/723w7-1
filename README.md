@@ -4,3 +4,9 @@ Homework Task:
 * have a rest
 * publish a link to Webinar (Week 6)
   (Please, keep the workflow of viza, test2 project)
+
+
+```
+x=y
+a=22
+```

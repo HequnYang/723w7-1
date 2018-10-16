@@ -6,7 +6,8 @@ Homework Task:
   (Please, keep the workflow of viza, test2 project)
 
 
-```
+```python
 x=y
 a=22
+print(a)
 ```

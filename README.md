@@ -1,13 +1,10 @@
 # 723 week 7 part 1
 
 Homework Task:
-* have a rest
-* publish a link to Webinar (Week 6)
-  (Please, keep the workflow of viza, test2 project)
+* Homework's link (the picture)
 
-
-```python
-x=y
-a=22
-print(a)
+[![img](https://www.westonschools.org/wp-content/uploads/2018/01/homework-icon-1.png)](https://drive.google.com/drive/folders/1kcEMsSzmGPkEvLygTOfqqGJer1X2hHT "homework")
+* Code 
+```
+[![img](https://www.westonschools.org/wp-content/uploads/2018/01/homework-icon-1.png)](https://drive.google.com/drive/folders/1kcEMsSzmGPkEvLygTOfqqGJer1X2hHT "homework")
 ```
